@@ -27,6 +27,9 @@ for(var i = 0;i<document.querySelectorAll(".sem").length;i++){
                 break;
             case "Sem-5":
                 document.querySelector(".sem5").classList.add("click");
+                setTimeout(function(){
+                    document.querySelector(".sem5").classList.remove("click");
+                },500)
                 break;
             case "Sem-6":
                 document.querySelector(".sem6").classList.add("click");
@@ -51,3 +54,4 @@ for(var i = 0;i<document.querySelectorAll(".sem").length;i++){
         }
     });
 }
+
