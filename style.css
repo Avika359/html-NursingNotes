@@ -10,6 +10,7 @@ h1{
 body{
     background-color: azure;
     background-image: url("./0575265b69d277dfb86dc8fcd2ff8b2b.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -60,4 +61,5 @@ body{
 .head{
   padding: 20px;
 }
+
 
