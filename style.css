@@ -9,6 +9,9 @@ h1{
 }
 body{
     background-color: azure;
+    background-image: url("./0575265b69d277dfb86dc8fcd2ff8b2b.jpg");
+    background-size: cover;
+    background-position: center;
 }
 .sem1{
   color: blue;
@@ -57,3 +60,4 @@ body{
 .head{
   padding: 20px;
 }
+
