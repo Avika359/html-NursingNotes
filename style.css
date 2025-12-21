@@ -13,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment:fixed;
 }
 .sem1{
   color: blue;
@@ -61,5 +62,6 @@ body{
 .head{
   padding: 20px;
 }
+
 
 
